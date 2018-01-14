@@ -9,9 +9,8 @@ ul {
 
 
 .header {
-  background-image: url(resources/images/the-flatiron-building.png);
+  background-image: url("../images/the-flatiron-building.png");
 }
-
 
 h1 {
   font-size: 70px;
@@ -37,10 +36,12 @@ h4 {
   font-size: 23px;
   font-weight: bold;
   color: white;
+  background-image: url("../images/the-flatiron-building.png");
 }
 
 .footer {
   font-size: 11px;
   color: white;
   background-color: dimgray;
+  text-align: left;
 }
